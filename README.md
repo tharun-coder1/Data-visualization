@@ -15,15 +15,17 @@ This application is related to data visualization and is built using ReactJS. It
 * Navigate to localhost:3000 to see the Home page
 
 ## Screenshots
-
+-----
 * Home Component
 
 ![Home](./img/home.png).
 
+----
 * Graph visualization Component
 
 ![Add Movie](./img/graph.png).
 
+-----
 * Word Cloud Component
 
 ![Movie Details](./img/wordcloud.png).
