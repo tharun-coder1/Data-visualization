@@ -13,6 +13,7 @@ This application is related to data visualization and is built using ReactJS. It
 * Download the repository, navigate to the root folder and run the command "npm install" to install dependencies
 * Now run the command "npm start" to start up the server
 * Navigate to localhost:3000 to see the Home page
+* On a Server, Restful APIs are created which server JSON data and these are consumed by the front-end 
 
 ## Screenshots
 -----
